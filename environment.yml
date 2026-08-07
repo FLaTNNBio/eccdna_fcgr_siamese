@@ -1,0 +1,14 @@
+name: eccdna_fcgr
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - scikit-learn
+  - biopython
+  - tqdm
+  - seaborn
+  - pandas
+  - numpy
+prefix: C:\Users\simon\miniforge3\envs\eccdna_fcgr
